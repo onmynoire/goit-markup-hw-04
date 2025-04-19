@@ -247,8 +247,20 @@ li.values-list-item {
 width: calc((100%-72px) / 4);
 }
 
+.values-box {
+    background-color: #F4F4FD;
+    border: 1px solid #8E8F99;
+    border-radius: 4px;
+   
+    width: 264px;
+    height: 112px;
+
+    padding: 24px 100px;
+
+}
 
 /* TEAM */
+
 
 .team-section {
     background-color: #f4f4fd;
@@ -306,6 +318,7 @@ width: calc((100%-72px) / 4);
     justify-content: center;
     gap: 52px;
 }
+
 /* PORTFOLIO */
 
 .portfolio {
