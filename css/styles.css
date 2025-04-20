@@ -434,7 +434,7 @@ border-top: none;
 
 }
 
-.portfolio-list-item .portfolio-p:hover {
+.portfolio-p:hover {
     transform: translateY(0%);
 }
 /* FOOTER */
